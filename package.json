@@ -1,0 +1,22 @@
+{
+  "name": "fullstack_coding",
+  "version": "1.0.0",
+  "description": "this is hello world with javascript",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kavitha-dev/Fullstack_coding.git"
+  },
+  "author": "Kavitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kavitha-dev/Fullstack_coding/issues"
+  },
+  "homepage": "https://github.com/Kavitha-dev/Fullstack_coding#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
